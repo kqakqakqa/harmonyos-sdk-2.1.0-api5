@@ -15,3 +15,5 @@ https://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/55/v3/bLpDkR2
 ### or download from Releases
 
 https://github.com/kqakqakqa/harmonyos-sdk-2.1.0-api5/releases
+
+解压后放至对应文件夹。然后有些地方需要npm install，补全文件。
