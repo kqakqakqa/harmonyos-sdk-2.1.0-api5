@@ -20,6 +20,8 @@ https://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/55/v3/bLpDkR2
 
 https://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/55/v3/bLpDkR2ASXGBKEfy4oVKcg/toolchains-windows-2.1.1.21-Release.zip
 
+or https://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/ff/v3/QIuHLztST8CD70kZE9fchQ/example.zip
+
 ### 2.2.0(API6)
 
 https://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/b4/v3/y1YzCU0nQVyLv3JPYBxPHw/java-windows-2.2.0.3-Release.zip
